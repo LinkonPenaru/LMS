@@ -3,10 +3,15 @@ First Project (LMS/ Library Management System)
 This project is a simple Library Management System (LMS) implemented in C **BY USING ARRAYS**. The LMS provides six main functions to manage a library's book inventory and book issuing process:
 
 AddBook(): Adds a new book to the library.
+
 ViewBookList(): Displays a list of all available books.
+
 RemoveBook(): Removes a book from the library.
+
 IssueBook(): Issues a book to a student.
+
 ViewIssueBook(): Displays a list of all issued books.
+
 ReturnBook(): Handles the return of an issued book.
 
 =========**Usage Instructions**============
